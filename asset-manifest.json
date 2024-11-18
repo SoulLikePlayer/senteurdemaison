@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/senteurdemaison/static/css/main.94ad6c31.css",
+    "main.js": "/senteurdemaison/static/js/main.f17b15ac.js",
+    "index.html": "/senteurdemaison/index.html",
+    "main.94ad6c31.css.map": "/senteurdemaison/static/css/main.94ad6c31.css.map",
+    "main.f17b15ac.js.map": "/senteurdemaison/static/js/main.f17b15ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ad6c31.css",
+    "static/js/main.f17b15ac.js"
+  ]
+}
