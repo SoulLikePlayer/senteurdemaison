@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/senteurdemaison/static/css/main.9e81da66.css",
-    "main.js": "/senteurdemaison/static/js/main.8df61eba.js",
+    "main.js": "/senteurdemaison/static/js/main.4f0a5f60.js",
     "index.html": "/senteurdemaison/index.html",
     "main.9e81da66.css.map": "/senteurdemaison/static/css/main.9e81da66.css.map",
-    "main.8df61eba.js.map": "/senteurdemaison/static/js/main.8df61eba.js.map"
+    "main.4f0a5f60.js.map": "/senteurdemaison/static/js/main.4f0a5f60.js.map"
   },
   "entrypoints": [
     "static/css/main.9e81da66.css",
-    "static/js/main.8df61eba.js"
+    "static/js/main.4f0a5f60.js"
   ]
 }
